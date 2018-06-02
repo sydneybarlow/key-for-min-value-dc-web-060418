@@ -3,13 +3,7 @@
 
 def key_for_min_value(name_hash)
   name_hash.each do |a, b|
-      if b == 1
-        a
-      else b == 10 
-        a 
-    end
-  end  
-  a
+     
 end
 
 # def LowestSecondLowest(arr)
