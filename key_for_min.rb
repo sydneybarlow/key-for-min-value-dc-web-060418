@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   lowest_value = nil
-  symbol = (lowest value)
+  symbol = {}
   
   name_hash.each do |name, num|
       
