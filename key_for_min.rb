@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   lowest_value = nil
-  symbol = {}
+  symbol = nil
   
   name_hash.each do |name, num|
       
@@ -12,7 +12,7 @@ def key_for_min_value(name_hash)
         lowest_value = num
       end  
      end
-  symbol   
+  symbol 
 end
 
 # def LowestSecondLowest(arr)
