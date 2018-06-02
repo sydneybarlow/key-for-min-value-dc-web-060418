@@ -12,7 +12,6 @@ def key_for_min_value(name_hash)
         lowest_value = num
       end  
      end
-    name 
 end
 
 # def LowestSecondLowest(arr)
